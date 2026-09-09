@@ -1,0 +1,11 @@
+# Mission Reflection
+
+Google Cloud Platform impress me the most out of the three providers. It offer powerful artificial intelligence tool. Google build these tools using the exact technology that run their search engines, which mean GCP also handle huge data analytics workflows well. It provide specialized processor that trains machine learning model fast.
+
+AWS, Azure, and GCP shares many core similarity. They all offers virtual machine. Virtual machine are digital computer that run in the cloud and they provide object storage to keeps your file safe. They includes identity management to control user access. All three platforms operates massive network of data centers across multiple global region so this global reach ensure high reliability and fast performances. They also use flexible pay-as-you-go pricing model because this pricing help business saves money.
+
+Business requirement strongly influence cloud platform selections. A company must match its specific goal to a providers unique strength. For example, a large enterprise that already rely on Windows Server will chooses Azure because Azure integrate smoothly with existing Microsoft tool. A new startup wanting rapid growths might picks AWS. AWS offer the most broad range of services. An artificial intelligence research teams will likely selects GCP since GCP provide the best machine learning environment.
+
+I learns valuable lesson from acting as a Cloud Solutions Consultant. I learn how to evaluate different cloud provider objectively. I realize that technology feature represent only one part of the final decisions. Cost, existing software system, and future growth plan matters equally when you make a choice. I now understands how to align technical solution with real business need.
+
+My GitHub Cloud Computing Portfolio improve significantly after completing this mission. I added several detailed Markdown file documenting my research. These file compare the major cloud platform side by side and they also include specific multi-cloud recommendation for different client scenario. This new contents prove I understands modern cloud infrastructure.
